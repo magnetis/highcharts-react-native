@@ -121,7 +121,7 @@ export default class App extends React.Component {
 
         this.state = {
             chartOptions: {
-            	chart: {
+                chart: {
                     events: {
                         load: function () {
 
