@@ -1,5 +1,4 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
   "name": "highcharts-react-native",
   "version": "2.1.1",
   "scripts": {
@@ -30,11 +29,9 @@
   ],
   "homepage": "https://github.com/highcharts/highcharts-react-native#readme",
   "dependencies": {
-    "@highcharts/highcharts-react-native": "^1.0.0",
-    "expo": "^33.0.0",
+    
     "react": "16.8.3",
     "react-dom": "^16.8.6",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
     "react-native-web": "^0.11.4",
     "react-native-webview": "^5.12.0"
   },
